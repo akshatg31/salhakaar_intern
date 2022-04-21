@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.container{
+    border: 1px solid orange;
+    border-radius: 5px;
+    margin: 50px auto;
+    width: 1000px;
+    padding: auto;
+    
+}
+.p-3{
+    text-align: center;
+}
+.form-group{
+    margin: 0 2.5rem 1.2rem 2rem;
+ }
+ 
+.label {
+    margin: 15px;
+ }
+ #name, #department, #exampleInputEmail1, #exampleInputPassword1, #EmployeeID, #contact{
+    background: rgba(240, 240, 236, 0.7);
+    padding: 0.5rem 10rem;
+    border-radius: 0.1rem;
+ }
